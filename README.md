@@ -4,4 +4,4 @@ The codes in this repository were used during a project that I completed in a cl
 
 The python codes contained were created using jupyter notebook and is reccomended to run and test the code. 
 
-The comments on the code are self explanatory in terms of data analysis, but for more information on the project itself please see the abstract. 
+The comments on the code itself are self explanatory in terms of how it operates but for a more longer exlpaination see the attached paper. For a short summary of the conceptualization see the poster. 
